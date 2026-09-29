@@ -1,0 +1,38 @@
+[
+  {
+    "id": "p1",
+    "name": "Sunita Cleaning Services",
+    "rating": 4.6,
+    "reviews": 128,
+    "pricePerHour": 299,
+    "tags": ["Deep Clean", "Bathroom Clean"],
+    "availability": ["10:00 AM", "1:00 PM", "4:00 PM"]
+  },
+  {
+    "id": "p2",
+    "name": "SparkleHome Crew",
+    "rating": 4.3,
+    "reviews": 76,
+    "pricePerHour": 249,
+    "tags": ["Kitchen Clean", "Sofa Clean"],
+    "availability": ["9:00 AM", "2:00 PM"]
+  },
+  {
+    "id": "p3",
+    "name": "QuickShine Pros",
+    "rating": 4.8,
+    "reviews": 210,
+    "pricePerHour": 349,
+    "tags": ["Deep Clean", "Full Home"],
+    "availability": ["11:00 AM", "3:00 PM", "5:30 PM"]
+  },
+  {
+    "id": "p4",
+    "name": "CleanNest Services",
+    "rating": 4.1,
+    "reviews": 44,
+    "pricePerHour": 199,
+    "tags": ["Basic Clean"],
+    "availability": ["10:30 AM", "12:30 PM"]
+  }
+]
